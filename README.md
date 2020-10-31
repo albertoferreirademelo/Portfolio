@@ -1,4 +1,4 @@
-# Welcome to Albertos portfolio
+# Welcome to Alberto's portfolio
 
 ###### This is a portfolio with some of my projects/study/tutorials from 2010 until today. In this repository you will find a mix of programs from deep learning to only a hello world, so abrace yourself to a weird journey. :) 
 
