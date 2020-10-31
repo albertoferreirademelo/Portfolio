@@ -8,6 +8,7 @@
 ## 2019
 - [Prediction of the Swedish stock market using the supervised learning method called Long Short-Term Memory](https://github.com/albertoferreirademelo/19-DNN-LSTM-SwedishStockMarket)
 ## 2018
+- [Website login with selenium](https://github.com/albertoferreirademelo/18-Website-Login)
 ## 2017
 ## 2016
 ## 2015
