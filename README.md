@@ -4,6 +4,7 @@
 
 ## 2020
 - [Data analysis of the Swedish stock market using unsupervised learning (k-means)](https://github.com/albertoferreirademelo/20-K-Means-Clustering)
+- [Structuring data with pandas](https://github.com/albertoferreirademelo/20-Structuring-data-with-pandas)
 ## 2019
 ## 2018
 ## 2017
