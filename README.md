@@ -6,7 +6,7 @@
 - [Data analysis of the Swedish stock market using unsupervised learning (k-means)](https://github.com/albertoferreirademelo/20-K-Means-Clustering)
 - [Structuring data with pandas](https://github.com/albertoferreirademelo/20-Structuring-data-with-pandas)
 ## 2019
-- [Prediction of the Swedish stock market using the supervised learning method called Long Short-Term Memory](https://github.com/albertoferreirademelo/19-DNN-LSTM-SwedishStockMarket)
+- [Prediction of the Swedish stock market using supervised learning (LSTM)](https://github.com/albertoferreirademelo/19-DNN-LSTM-SwedishStockMarket)
 ## 2018
 - [Website login with selenium](https://github.com/albertoferreirademelo/18-Website-Login)
 ## 2017
