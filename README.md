@@ -23,3 +23,4 @@
 - [Interaction between Arduino and Python](https://github.com/albertoferreirademelo/12-Playing-arduino-with-Python)
 ## 2011
 ## 2010
+- Started to learn to program Python.
