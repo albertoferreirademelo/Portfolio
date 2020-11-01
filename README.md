@@ -17,5 +17,6 @@
 ## 2013
 - [Datastructure and algorithm course](https://github.com/albertoferreirademelo/13-datastructure-and-algorithms)
 ## 2012
+- [Auto clicker for the game avatar online](https://github.com/albertoferreirademelo/12-bot-click-avatar-online)
 ## 2011
 ## 2010
