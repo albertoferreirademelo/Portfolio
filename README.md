@@ -17,6 +17,7 @@
 - [Advanced Bioinformatics - Finding unique PCR primers in viral genomes](https://github.com/albertoferreirademelo/14-Finding-unique-PCR-primers-in-viral-genomes)
 ## 2013
 - [Datastructure and algorithm course](https://github.com/albertoferreirademelo/13-datastructure-and-algorithms)
+- [Random small programs for my bioinformatics course](https://github.com/albertoferreirademelo/13-random-programs-bioinformatics)
 ## 2012
 - [Auto clicker for the game avatar online](https://github.com/albertoferreirademelo/12-bot-click-avatar-online)
 - [Interaction between Arduino and Python](https://github.com/albertoferreirademelo/12-Playing-arduino-with-Python)
